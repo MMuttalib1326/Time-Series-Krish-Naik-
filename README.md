@@ -12,6 +12,7 @@ Seasonal variations, which represent seasonal changes;
 Cyclical fluctuations, which correspond to periodical but not seasonal variations;
 Irregular variations, which are other nonrandom sources of variations of series.
 
+
 What are the methods of time series?
 Time series forecasting methods 
 Times series methods refer to different ways to measure timed data. Common types include: Autoregression (AR), Moving Average (MA), Autoregressive Moving Average (ARMA), Autoregressive Integrated Moving Average (ARIMA), and Seasonal Autoregressive Integrated Moving-Average (SARIMA).
